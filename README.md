@@ -1,5 +1,6 @@
 ### Hi there, I'm Ahmar - aka [mrelectrifying][website] 👋
 
+---
 
 ## I'm a Self-taught Developer.!!
 
@@ -77,23 +78,23 @@
 <!--  [more blog posts...](https://codestackr.com) --> 
 
 
-<details>
+<!-- <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
+<!-- 1. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
 2. 🎉 Merged PR [#13](https://github.com/codeSTACKr/codeSTACKr/pull/13) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
 3. 💪 Opened PR [#13](https://github.com/codeSTACKr/codeSTACKr/pull/13) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
 4. 🎉 Merged PR [#12](https://github.com/codeSTACKr/codeSTACKr/pull/12) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-5. 💪 Opened PR [#12](https://github.com/codeSTACKr/codeSTACKr/pull/12) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
+5. 💪 Opened PR [#12](https://github.com/codeSTACKr/codeSTACKr/pull/12) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr) -->
 <!--END_SECTION:activity-->
 
-</details>
+<!-- </details>  -->
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="ahmar's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="ahmar's GitHub Stats" src="https://github-readme-stats.ahmar46.vercel.app/api?username=ahmar46&show_icons=true&hide_border=true" />
 
 </details>
 
