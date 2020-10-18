@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love going to the GYM and making some Gainz everyday.
+- ⚡ Fun fact: I love going to the GYM and making Gainz everyday.
 
 ---
 
