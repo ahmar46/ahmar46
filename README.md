@@ -13,6 +13,8 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="mrelectrifying Spotify Playing" width="350" />](https://open.spotify.com/search/radioactive%20ke) -->
 
+---
+
 ### Connect with me:
 
 [<img align="left" alt="ahmar46.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -47,7 +49,6 @@
 <br />
 <br />
 
----
 <!-- 
 ### 📺 Latest YouTube Videos
 
@@ -59,9 +60,9 @@
 - [How To Make Responsive Website | Animated Hamburger Menu | HTML & CSS | Step By Step Tutorial 2020](https://www.youtube.com/watch?v=nME3fE3c9Qw) -->
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+<!-- ➡ [more videos...](https://youtube.com/codestackr)
 
----
+--- -->
 
 <!-- ###  Latest Blog Posts -->
 
@@ -73,9 +74,8 @@
 - [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl) -->
 <!-- BLOG-POST-LIST:END -->
 
-<!-- ➡️ [more blog posts...](https://codestackr.com) --> -->
+<!--  [more blog posts...](https://codestackr.com) --> 
 
----
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
