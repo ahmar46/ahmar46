@@ -4,7 +4,7 @@
 
 ## I'm a Self-taught Developer.!!
 
-- 🔭 I’m currently working on an e-commerce website.
+- 🔭 I’m currently working on a React Project.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
