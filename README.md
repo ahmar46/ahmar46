@@ -58,7 +58,7 @@
 
 </details>
 
-[website]: (https://ahmar46.github.io/ahmar_portfolio) {:target="_blank"}
+[website]: https://ahmar46.github.io/ahmar_portfolio
 [linkedin]: https://www.linkedin.com/in/ahmar-ali-khan-1a874912a/
 [instagram]: https://instagram.com/heal_electrifying
 [codepen]: https://codepen.io/ahmar46
