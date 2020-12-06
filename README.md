@@ -14,7 +14,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ahmar46.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" target="_blank" />][website]
+[<img align="left" alt="ahmar46.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="ahmar46 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
 [<img align="left" alt="ahmar46 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ahmar46 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -58,7 +58,7 @@
 
 </details>
 
-[website]: https://ahmar46.github.io/ahmar_portfolio
+[website]: (https://ahmar46.github.io/ahmar_portfolio) {:target="_blank"}
 [linkedin]: https://www.linkedin.com/in/ahmar-ali-khan-1a874912a/
 [instagram]: https://instagram.com/heal_electrifying
 [codepen]: https://codepen.io/ahmar46
