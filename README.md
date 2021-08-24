@@ -61,7 +61,7 @@
 
 [website]: https://ahmar46.github.io/portfolio
 [linkedin]: https://www.linkedin.com/in/ahmar-ali-khan-1a874912a/
-[instagram]: https://instagram.com/electrifying_codes
+[instagram]: https://instagram.com/electrifyingcodes
 [codepen]: https://codepen.io/ahmar46
 [youtube]: https://www.youtube.com/channel/UCUXkFB3rYo27qR27_ahNdAA?view_as=subscriber
 [twitter]: https://twitter.com/mrelectrifying
