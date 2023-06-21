@@ -7,8 +7,8 @@
 - 🔭 I’m currently working on my own website.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love hitting the GYM and making Gainz everyday.
+- 🥅 2023 Goals: Successfully launch my own website.
+- ⚡ Fun fact: I love creating content🎥 & playing Video Games 🎮.
 
 ---
 
