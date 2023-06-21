@@ -5,10 +5,10 @@
 ## I'm a Self-taught Developer.!!
 
 - 🔭 I’m currently working on my own website.
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Successfully launch my own website.
-- ⚡ Fun fact: I love creating content🎥 & playing Video Games 🎮.
+- 🤓 I’m currently learning everything.
+- 📝 I’m looking forward to work on some interesting projects.
+- 🎯 2023 Goals: Successfully launch my own website.
+- ⚡ Fun fact: I love creating content📸 & playing Video Games 🎮.
 
 ---
 
