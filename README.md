@@ -4,7 +4,7 @@
 
 ## I'm a Self-taught Developer.!!
 
-- 🔭 I’m currently working on my own website.
+- 👨‍💻 I’m currently working on my own website.
 - 🤓 I’m currently learning everything.
 - 📝 I’m looking forward to work on some interesting projects.
 - 🎯 2023 Goals: Successfully launch my own website.
