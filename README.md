@@ -68,3 +68,4 @@
 [codepen]: https://codepen.io/ahmar46
 [youtube]: https://www.youtube.com/channel/UCUXkFB3rYo27qR27_ahNdAA?view_as=subscriber
 [twitter]: https://twitter.com/mrelectrifying
+[discord]: https://discord.gg/VGj9tpuqhm
