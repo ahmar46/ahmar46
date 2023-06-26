@@ -8,7 +8,7 @@
 - 🤓 I’m currently learning everything.
 - 📝 I’m looking forward to work on some interesting projects.
 - 🎯 2023 Goals: Successfully launch my own website.
-- ⚡ Fun fact: I love creating content📸 & playing Video Games 🎮.
+- ⚡ Fun fact: I love creating content📸 & playing Video Games🎮.
 
 ---
 
@@ -17,6 +17,7 @@
 <!-- [<img align="left" alt="ahmar46.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 [<img align="left" alt="ahmar46 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="ahmar46 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="ahmar46 | Instagram" width="22px" src="https://fontawesome.com/icons/discord?f=brands&s=solid" />][discord]
  [<img align="left" alt="ahmar46 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ahmar46 | Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
 <!--[<img align="left" alt="ahmar46 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
