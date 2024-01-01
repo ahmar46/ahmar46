@@ -7,7 +7,7 @@
 - 👨‍💻 I’m currently working on my own website.
 - 🤓 I’m currently learning everything.
 - 📝 I’m looking forward to work on some interesting projects.
-- 🎯 2023 Goals: Successfully launch my own website.
+- 🎯 2024 Goals: Successfully launch my own website.
 - ⚡ Fun fact: I love creating content📸 & playing Video Games🎮.
 
 ---
