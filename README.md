@@ -5,8 +5,8 @@
 ## I am a front-end web developer and designer.
 
 - 👨‍💻 I’m currently working on my portfolio website.
-- 🤓 While working as shopify developer i am learning Full-stack web development too.
-- 📝 Looking forward to work on some interesting projects.
+- 🤓 While working full-time as a shopify developer i am learning Full-stack web development too.
+- 📝 Looking forward to work on some interesting projects this year.
 - 🎯 2024 Goals: Successfully start my own consulting agency.
 - ⚡ Fun fact: I love creating content📸 & playing Video Games🎮.
 
@@ -45,7 +45,7 @@
  [<img align="left" alt="ahmar46 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ahmar46 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ahmar46 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="ahmar46 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+<!-- [<img align="left" alt="ahmar46 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord] -->
 [<img align="left" alt="ahmar46 | Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
 <!--[<img align="left" alt="ahmar46 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
 [<img align="left" alt="ahmar46 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
