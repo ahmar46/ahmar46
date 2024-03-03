@@ -2,12 +2,12 @@
 
 ---
 
-## I'm a Self-taught Developer.!!
+## I am a Front-End Web developer and designer.
 
-- 👨‍💻 I’m currently working on my own website.
-- 🤓 I’m currently learning everything.
-- 📝 I’m looking forward to work on some interesting projects.
-- 🎯 2024 Goals: Successfully launch my own website.
+- 👨‍💻 I’m currently working on my portfolio website.
+- 🤓 While working as shopify developer i am learning Full-stack web development too.
+- 📝 Looking forward to work on some interesting projects.
+- 🎯 2024 Goals: Successfully start my own consulting agency.
 - ⚡ Fun fact: I love creating content📸 & playing Video Games🎮.
 
 ---
