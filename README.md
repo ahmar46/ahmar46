@@ -2,7 +2,7 @@
 
 ---
 
-## I am a Front-End Web developer and designer.
+## I am a front-end web developer and designer.
 
 - 👨‍💻 I’m currently working on my portfolio website.
 - 🤓 While working as shopify developer i am learning Full-stack web development too.
@@ -15,7 +15,7 @@
 ### Connect with me:
 
 <!-- [<img align="left" alt="ahmar46.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-[<img align="left" alt="ahmar46 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ahmar46 | Instagram" width="22px" src="https://www.flaticon.com/free-icon/instagram_174855?term=instagram&page=1&position=2&origin=search&related_id=174855" />][instagram]
 [<img align="left" alt="ahmar46 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="ahmar46 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
  [<img align="left" alt="ahmar46 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
