@@ -1,4 +1,4 @@
-### Hi, my name is Ahmar - aka [mrelectrifying][website] <img src="wave.gif" alt="Wave Emoji"  width="22.5px" />
+### Hi, my name is Ahmar - aka [Mr.Electrifying][website] <img src="wave.gif" alt="Wave Emoji"  width="22.5px" />
 
 ---
 
