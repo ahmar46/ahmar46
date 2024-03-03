@@ -66,7 +66,7 @@
 </details>
 
 [website]: https://instagram.com/electrifyingcodes
-[linkedin]: https://www.linkedin.com/in/ahmar-ali-khan-1a874912a/
+[linkedin]: www.linkedin.com/in/ahmar46
 [instagram]: https://instagram.com/electrifyingcodes
 [telegram]: https://t.me/electrifyingcodes
 [codepen]: https://codepen.io/ahmar46
