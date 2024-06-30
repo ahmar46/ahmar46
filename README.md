@@ -42,14 +42,21 @@
 ### Connect with me:
 
 <!-- [<img align="left" alt="ahmar46.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-[<img align="left" alt="ahmar46 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
- [<img align="left" alt="ahmar46 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ahmar46 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ahmar46 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-<!-- [<img align="left" alt="ahmar46 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord] -->
-[<img align="left" alt="ahmar46 | Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
-<!--[<img align="left" alt="ahmar46 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
 [<img align="left" alt="ahmar46 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
+[<img align="left" alt="ahmar46 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+ [<img align="left" alt="ahmar46 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<!-- [<img align="left" alt="ahmar46 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
+
+[<img align="left" alt="ahmar46 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+
+<!-- [<img align="left" alt="ahmar46 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord] -->
+
+[<img align="left" alt="ahmar46 | Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
+
+<!--[<img align="left" alt="ahmar46 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
 
 
 <br />
@@ -66,7 +73,7 @@
 </details> -->
 
 [website]: https://instagram.com/electrifyingcodes
-[linkedin]: www.linkedin.com/in/ahmar46
+[linkedin]: https://www.linkedin.com/in/ahmar46/
 [instagram]: https://instagram.com/electrifyingcodes
 [telegram]: https://t.me/electrifyingcodes
 [codepen]: https://codepen.io/ahmar46
