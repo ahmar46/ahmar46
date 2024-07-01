@@ -5,7 +5,7 @@
 ## I am a front-end web developer and designer.
 
 - 👨‍💻 I’m currently working on my portfolio website.
-- 🤓 While working full-time as a shopify developer i am learning full-stack web development too.
+- 🤓 While working full-time as a shopify developer, I am learning full-stack web development too.
 - 📝 Looking forward to work on some interesting projects this year.
 - 🎯 2024 Goals: Successfully start my own consulting agency & get back into my muscular shape.
 - ⚡ Fun fact: I love creating content📸 & playing Video Games🎮.
