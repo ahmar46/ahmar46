@@ -61,12 +61,12 @@
 
 <br />
  
-<!-- <details>
+<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="ahmar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ahmar46&show_icons=true&hide_border=true" />
 
-</details> -->
+</details>
 
 [website]: https://instagram.com/electrifyingcodes
 [linkedin]: https://www.linkedin.com/in/ahmar46/
