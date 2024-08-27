@@ -5,9 +5,9 @@
 ## I am a front-end web developer and designer.
 
 - 👨‍💻 I’m currently working on my portfolio website.
-- 🤓 While working full-time as a shopify developer, I am learning full-stack web development too.
+- 🤓 While working full-time as a Shopify developer, I am learning full-stack web development too.
 - 📝 Looking forward to work on some interesting projects this year.
-- 🎯 2024 Goals: Successfully start my own consulting agency & get back into my muscular shape.
+- 🎯 2024 Goals: Successfully start my consulting agency & get back into my muscular shape.
 - ⚡ Fun fact: I love creating content📸 & playing Video Games🎮.
 
 ---
@@ -75,6 +75,6 @@
 [instagram]: https://instagram.com/electrifyingcodes
 [telegram]: https://t.me/electrifyingcodes
 [codepen]: https://codepen.io/ahmar46
-[youtube]: https://www.youtube.com/channel/UCUXkFB3rYo27qR27_ahNdAA?view_as=subscriber
+[YouTube]: https://www.youtube.com/channel/UCUXkFB3rYo27qR27_ahNdAA?view_as=subscriber
 [twitter]: https://twitter.com/mrelectrifying
 [discord]: https://discord.gg/VGj9tpuqhm
