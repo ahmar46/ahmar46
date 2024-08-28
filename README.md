@@ -53,8 +53,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmar46&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=ahmar46&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ahmar46&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<!--## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ahmar46&theme=radical&no-frame=false&no-bg=false&margin-w=4)-->
 
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/ecodes) 
