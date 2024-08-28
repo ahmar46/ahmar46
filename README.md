@@ -11,12 +11,6 @@
 
 <!-- my github stats ![Ahmar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmar46&show_icons=true&theme=radical)-->
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ahmar46&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=ahmar46&icon=6&color=2)](https://visitcount.itsvg.in)
-
 ### Languages and Tools
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -37,6 +31,12 @@
  -->
 <!-- <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> -->
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ahmar46&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ahmar46&icon=6&color=2)](https://visitcount.itsvg.in)
+
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/electrifyingcodes) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmar46) 
@@ -48,9 +48,9 @@
 
 <br/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ahmar46&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahmar46&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ahmar46&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmar46&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
