@@ -1,7 +1,5 @@
 ### Hi, my name is Ahmar - aka [Mr.Electrifying][website] <img src="wave.gif" alt="Wave Emoji"  width="22.5px" />
 
----
-
 ## I am a front-end web developer and designer.
 
 - 👨‍💻 I’m currently working on my portfolio website. <br>
