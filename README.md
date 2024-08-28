@@ -63,7 +63,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=ahmar46&theme=radical&no-frame=false&no-bg=false&margin-w=4)-->
 
 ## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/ecodes) [![](https://visitcount.itsvg.in/api?id=ahmar46&icon=6&color=2)](https://visitcount.itsvg.in)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/ecodes) 
+[![](https://visitcount.itsvg.in/api?id=ahmar46&icon=6&color=2)](https://visitcount.itsvg.in)
 
 ### ✍️ Quote of the day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
