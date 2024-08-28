@@ -56,15 +56,14 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ahmar46&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/ecodes) 
   
 ---
+### ✍️ Quote of the day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- ### Connect with me:
+<!-- <!-- ### Connect with me:
 
 <!-- [<img align="left" alt="ahmar46.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 [<img align="left" alt="ahmar46 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -103,3 +102,4 @@
 [YouTube]: https://www.youtube.com/channel/UCUXkFB3rYo27qR27_ahNdAA?view_as=subscriber
 [twitter]: https://twitter.com/mrelectrifying
 [discord]: https://discord.gg/VGj9tpuqhm-->
+ -->
