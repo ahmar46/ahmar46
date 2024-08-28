@@ -57,49 +57,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=ahmar46&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/ecodes) 
-  
----
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/ecodes) 
+
 ### ✍️ Quote of the day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- <!-- ### Connect with me:
-
-<!-- [<img align="left" alt="ahmar46.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-[<img align="left" alt="ahmar46 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-
-[<img align="left" alt="ahmar46 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
- [<img align="left" alt="ahmar46 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<!-- [<img align="left" alt="ahmar46 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
-
-[<img align="left" alt="ahmar46 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-
-<!-- [<img align="left" alt="ahmar46 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord] -->
-
-[<img align="left" alt="ahmar46 | Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
-
-<!--[<img align="left" alt="ahmar46 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->-->
-
-
-<br />
- 
-<!--
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="ahmar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ahmar46&show_icons=true&hide_border=true" />
-
-</details> -->
-
-[website]: https://instagram.com/electrifyingcodes
-[linkedin]: https://www.linkedin.com/in/ahmar46/
-[instagram]: https://instagram.com/electrifyingcodes
-[telegram]: https://t.me/electrifyingcodes
-[codepen]: https://codepen.io/ahmar46
-[YouTube]: https://www.youtube.com/channel/UCUXkFB3rYo27qR27_ahNdAA?view_as=subscriber
-[twitter]: https://twitter.com/mrelectrifying
-[discord]: https://discord.gg/VGj9tpuqhm-->
- -->
