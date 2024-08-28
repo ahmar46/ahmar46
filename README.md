@@ -31,6 +31,8 @@
  -->
 <!-- <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> -->
 
+<br/>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ahmar46&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
@@ -52,7 +54,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=ahmar46&theme=radical&no-frame=false&no-bg=false&margin-w=4)-->
 
 ## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/ecodes) 
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/ecodes) [![](https://visitcount.itsvg.in/api?id=ahmar46&icon=6&color=2)](https://visitcount.itsvg.in)
 
 ### ✍️ Quote of the day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) [![](https://visitcount.itsvg.in/api?id=ahmar46&icon=6&color=2)](https://visitcount.itsvg.in)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
