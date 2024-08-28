@@ -1,10 +1,11 @@
 ![Batman fighting](./batmansmaller.gif)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=35&width=800&duration=6969&lines=Welcome+to+my+world_)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=35&width=800&duration=6969&lines=Welcome+to+my+world_)]
 # The name is "AHMAR" (A digital craftsman)<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/electrifyingcodes) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@electrifyingcodes) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmar46) 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ahmar46)
+[![](https://visitcount.itsvg.in/api?id=ahmar46&icon=6&color=2)](https://visitcount.itsvg.in)
 
 <!--### Hi, my name is  - aka [Mr.Electrifying][website] <img src="wave.gif" alt="Wave Emoji"  width="22.5px" />-->
 
@@ -70,9 +71,8 @@
 
 <!-- END YOUTUBE-CARDS -->
 
-## 💰 You can help me by Donating
+## 💰 Support me
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/ecodes) 
-[![](https://visitcount.itsvg.in/api?id=ahmar46&icon=6&color=2)](https://visitcount.itsvg.in)
 
 ### ✍️ Quote of the day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
