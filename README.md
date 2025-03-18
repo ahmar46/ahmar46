@@ -11,10 +11,10 @@
 
 ### I am a front-end web developer and designer.
 
-- 👨‍💻 I’m currently working on my portfolio website. <br>
+- 👨‍💻 I’m currently working on my Blogging website. <br>
 - 🤓 While working full-time as a Shopify developer, I am learning full-stack web development too.<br>
 - 📝 Looking forward to work on some interesting projects this year.<br>
-- 🎯 2024 Goals: Successfully start my consulting agency & get back into my muscular shape.<br>
+- 🎯 2025 Goals: To start my blogging website & working as a freelance developer.<br>
 - ⚡ Fun fact: I love creating content📸 & playing Video Games🎮.<br>
 
 ## 💻 Technologies & Tools that i use -
@@ -71,8 +71,8 @@
 
 <!-- END YOUTUBE-CARDS -->
 
-## 💰 Support me
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/ecodes) 
+<!-- ## 💰 Support me
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/ecodes)  -->
 
 ### ✍️ Quote of the day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
