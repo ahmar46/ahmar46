@@ -1,11 +1,11 @@
 ![Batman fighting](./batmansmaller.gif)
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=8B5CF6&vCenter=true&random=false&width=435&lines=Self-Taught+Software+Engineer;DevOps+Enthusiast;UI%2FUX+Engineer;Software+Engineering+Undergraduate)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=8B5CF6&vCenter=true&random=false&width=435&lines=Self-Taught+Software+Engineer;FullStack+WebDeveloper;UI%2FUX+Engineer;parttime+content+creator)
 
 ```typescript
 
 const myDetails = {
-  name: "Lakshan Rukantha",
+  name: "Ahmar Ali Khan",
   title: "Self-Taught Software Engineer & DevOps Enthusiast",
   university: "NSBM Green University",
   degree: "BSc (Hons) in Software Engineering (1st Year UG)",
