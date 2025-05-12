@@ -69,32 +69,28 @@ const myDetails = {
 
 ## 🧩 My Projects
 
-<!-- - [CeylonJobSeeker](https://ceylonjobseeker.com) (Job listing portal.)
+- [CrepDogCrew](https://crepdogcrew.com/) (E-Commerce Website.)
 
-- [GitTrack](https://gittrack.vercel.app/) (Find who does not follow you on github.)
+- [FireGram](https://firegram-proto.netlify.app/) (Photo Gallery App.)
 
-- [API Of Blockchains](https://api-of-blockchains.vercel.app/) (Sample project using typescript and tailwind css.)
+- [Charcter Counter](https://ahmar46.github.io/Character_Counter/) (Count charters for social media captions.)
 
-- [QRCodeX](https://qrcodex.netlify.app/) (QR Code scanner and generator.)
-
-- [MindMate](https://mind-mate.vercel.app/) (AI powered mental health support.)
-
-- [PassGen](https://github.com/ahmar46/PassGen) (Random passwords generating CLI tool.)
+- [Loruki](https://cloudloruki.netlify.app/) (Cloud Service Agency Website.)
 
 <details>
 <summary>View More</summary>
 
-- [My Battery](https://mybattery.vercel.app/) (Real-Time battery status previewer.)
-- [CutLink](https://cut-link.netlify.app/) (Link shortner web application.)
+- [My Portfolio](https://onlyahmar.netlify.app/) (My portfolio.)
+<!-- - [CutLink](https://cut-link.netlify.app/) (Link shortner web application.)
 - [WeatherCast](https://weathercast-pro.netlify.app/) (Realtime weather information web application.)
 
 - [TaskHub](https://taskhub-online.netlify.app/) (Tasks management web application.)
 
 - [Cake Days](https://cakedaysnsbm.netlify.app/) (Birthdays management web application.)
 
-- [Ahmar Rukantha](https://Ahmar-online.web.app) (Old Portfolio)
+- [Ahmar Rukantha](https://Ahmar-online.web.app) (Old Portfolio) -->
 
-</details> -->
+</details>
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ahmar46&limit=5&theme=radical&combine_all_yearly_contributions=true)
