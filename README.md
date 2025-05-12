@@ -1,6 +1,6 @@
 <!-- ![Batman fighting](./batmansmaller.gif) -->
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=8B5CF6&vCenter=true&random=false&width=435&lines=Self-Taught+Software+Engineer;Full+Stack+Web+Developer;UI%2FUX+Engineer;part+time+content+creator)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=8B5CF6&vCenter=true&random=false&width=435&lines=Self-Taught+Software+Engineer;Full+Stack+Web+Developer;UI%2FUX+Engineer;Part+Time+Content+Creator)
 
 ```typescript
 
@@ -28,31 +28,6 @@ const myDetails = {
 };
 
 ```
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ahmar46&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-
-## 📊 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=ahmar46&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=ahmar46&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmar46&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmar46&theme=radical&hide_border=false)<br/>
-
-![Ahmar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmar46&theme=chartreuse-dark&hide_border=true&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmar46&layout=compact&hide_border=true&theme=chartreuse-dark)
-
- </div>
-  
-<!-- Contribution Graph -->
-![Ahmar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmar46&theme=github-compact)
-
-<!-- Tech Stack -->
 
 ## 💻 Tech Stack
 
@@ -121,6 +96,34 @@ const myDetails = {
 
 </details> -->
 
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ahmar46&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+
+## 📊 GitHub Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=ahmar46&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ahmar46&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmar46&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+
+<!-- ## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmar46&theme=radical&hide_border=false)<br/>
+
+![Ahmar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmar46&theme=chartreuse-dark&hide_border=true&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmar46&layout=compact&hide_border=true&theme=chartreuse-dark)
+
+ </div> -->
+  
+<!-- Contribution Graph -->
+![Ahmar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmar46&theme=github-compact)
+
+<!-- Tech Stack -->
+
+
+
 <!-- GitHub Trophies -->
 
 <!-- ## 🏆 GitHub Trophies -->
@@ -156,4 +159,4 @@ const myDetails = {
 <!-- Status -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ahmar46)
-![GitHub last commit](https://img.shields.io/github/last-commit/@ahmar46)
+<!-- ![GitHub last commit](https://img.shields.io/github/last-commit/@ahmar46) -->
