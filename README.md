@@ -80,7 +80,7 @@ const myDetails = {
 <details>
 <summary>View More</summary>
 
-- [My Portfolio](https://onlyahmar.netlify.app/) (My portfolio.)
+- [Only Ahmar](https://onlyahmar.netlify.app/) (My portfolio.)
 <!-- - [CutLink](https://cut-link.netlify.app/) (Link shortner web application.)
 - [WeatherCast](https://weathercast-pro.netlify.app/) (Realtime weather information web application.)
 
