@@ -24,7 +24,7 @@ const myDetails = {
       link: "https://onlyahmar.netflify.app"
     }
   ],
-  hobbies: "Programming, Body Building, Content Creation"
+  hobbies: "Programming, Body Building, Playing Video Games"
 };
 
 ```
