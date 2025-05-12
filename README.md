@@ -127,19 +127,8 @@ const myDetails = {
 
 ## 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/electrifyingcodes)
-
-[![Threads](https://img.shields.io/badge/-threads-FE7A16?logo=threads&logoColor=white&style=for-the-badge)](https://www.threads.com/@electrifyingcodes)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/ahmar46)
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/944559009900425226)
-
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@CodeWithLakshan)
-
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/ahmar46)
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://facebook.com/ahmar46.dev)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/electrifyingcodes)[![Threads](https://img.shields.io/badge/-threads-FE7A16?logo=threads&logoColor=white&style=for-the-badge)](https://www.threads.com/@electrifyingcodes)[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@electrifyingcodes)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/ahmar46)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/electrifyingdev)
 
 <hr/>
 
@@ -158,4 +147,4 @@ const myDetails = {
 <!-- Status -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ahmar46)
-![GitHub last commit](https://img.shields.io/github/last-commit/ahmar46/ahmar46)
+![GitHub last commit](https://img.shields.io/github/last-commit/ahmar46)
