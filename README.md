@@ -23,7 +23,7 @@ const myDetails = {
     },
     {
       name: "Dev.to",
-      link: "https://dev.to/ahma46"
+      link: "https://dev.to/ahmar46"
     }
   ],
   hobbies: "Programming, Body Building, Content Creation"
@@ -36,13 +36,13 @@ const myDetails = {
 <div align="center">
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmar46&theme=radical&hide_border=false)<br/>
-![Lakshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahma46&theme=chartreuse-dark&hide_border=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahma46&layout=compact&hide_border=true&theme=chartreuse-dark)
+![Lakshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmar46&theme=chartreuse-dark&hide_border=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmar46&layout=compact&hide_border=true&theme=chartreuse-dark)
 
  </div>
   
 <!-- Contribution Graph -->
-![Lakshan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahma46&theme=github-compact)
+![Lakshan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmar46&theme=github-compact)
 
 <!-- Tech Stack -->
 ## 💻 Tech Stack
@@ -68,7 +68,7 @@ const myDetails = {
 
 - [MindMate](https://mind-mate.vercel.app/) (AI powered mental health support.)
 
-- [PassGen](https://github.com/ahma46/PassGen) (Random passwords generating CLI tool.)
+- [PassGen](https://github.com/ahmar46/PassGen) (Random passwords generating CLI tool.)
 
 <details>
 <summary>View More</summary>
@@ -89,15 +89,15 @@ const myDetails = {
 
 <!-- GitHub Trophies -->
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ahma46&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ahmar46&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
 <!-- Holopin Badges -->
 ## 📛 Holopin Badges
-[![An image of @ahma46's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ahma46)](https://holopin.io/@ahma46)
+[![An image of @ahmar46's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ahmar46)](https://holopin.io/@ahmar46)
 
 <!-- Socials -->
 ## 🌐 Socials
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/17067744/lakshan-rukantha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/ahma46) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/944559009900425226) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@CodeWithLakshan) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/ahma46) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://facebook.com/ahma46.dev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/lakshan_rukantha)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/17067744/lakshan-rukantha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/ahmar46) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/944559009900425226) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@CodeWithLakshan) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/ahmar46) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://facebook.com/ahmar46.dev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/lakshan_rukantha)
 <hr/>
 
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=3124fpyq7tuttbe6xahvgfyjamku&count=1)
@@ -112,5 +112,5 @@ const myDetails = {
 <hr/>
 
 <!-- Status -->
-![Profile Views](https://komarev.com/ghpvc/?username=ahma46)
-![GitHub last commit](https://img.shields.io/github/last-commit/ahma46/ahma46)
+![Profile Views](https://komarev.com/ghpvc/?username=ahmar46)
+![GitHub last commit](https://img.shields.io/github/last-commit/ahmar46/ahmar46)
