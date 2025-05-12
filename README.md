@@ -52,8 +52,8 @@ const myDetails = {
 ### Tools & Services
 
 <!-- ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) -->
-![SHOPIFY](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=shopify&logoColor=white)
-![WORDPRESS](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+![SHOPIFY](https://img.shields.io/badge/shopify-%23000000.svg?style=for-the-badge&logo=shopify&logoColor=white)
+![WORDPRESS](https://img.shields.io/badge/wordpress-%23000000.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![PNPM](https://img.shields.io/badge/pnpm-yellow?style=for-the-badge&logo=pnpm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
