@@ -28,6 +28,14 @@ const myDetails = {
 };
 
 ```
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ahmar46&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+
+## 📊 GitHub Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=ahmar46&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ahmar46&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmar46&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
 ## 📊 GitHub Stats
 
@@ -35,14 +43,14 @@ const myDetails = {
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmar46&theme=radical&hide_border=false)<br/>
 
-![Lakshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmar46&theme=chartreuse-dark&hide_border=true&show_icons=true)
+![Ahmar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmar46&theme=chartreuse-dark&hide_border=true&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmar46&layout=compact&hide_border=true&theme=chartreuse-dark)
 
  </div>
   
 <!-- Contribution Graph -->
-![Lakshan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmar46&theme=github-compact)
+![Ahmar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmar46&theme=github-compact)
 
 <!-- Tech Stack -->
 
@@ -52,23 +60,25 @@ const myDetails = {
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+<!-- ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) -->
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-8BC0D0?style=for-the-badge&logo=Three.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### Tools & Services
 
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+<!-- ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) -->
+![SHOPIFY](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=shopify&logoColor=white)
+![WORDPRESS](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![PNPM](https://img.shields.io/badge/pnpm-yellow?style=for-the-badge&logo=pnpm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
@@ -78,7 +88,7 @@ const myDetails = {
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+<!-- ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) -->
 
 <!-- My Projects -->
 
@@ -107,7 +117,7 @@ const myDetails = {
 
 - [Cake Days](https://cakedaysnsbm.netlify.app/) (Birthdays management web application.)
 
-- [Lakshan Rukantha](https://lakshan-online.web.app) (Old Portfolio)
+- [Ahmar Rukantha](https://Ahmar-online.web.app) (Old Portfolio)
 
 </details> -->
 
@@ -146,4 +156,4 @@ const myDetails = {
 <!-- Status -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ahmar46)
-![GitHub last commit](https://img.shields.io/github/last-commit/ahmar46)
+![GitHub last commit](https://img.shields.io/github/last-commit/@ahmar46)
