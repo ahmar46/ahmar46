@@ -113,13 +113,13 @@ const myDetails = {
 
 <!-- GitHub Trophies -->
 
-<!-- ## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies -->
 
-![](https://github-profile-trophy.vercel.app/?username=ahmar46&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+<!-- ![](https://github-profile-trophy.vercel.app/?username=ahmar46&theme=discord&no-frame=true&no-bg=true&margin-w=4) -->
 
 <!-- Holopin Badges -->
 
-## 📛 Holopin Badges
+<!-- ## 📛 Holopin Badges
 
 [![An image of @ahmar46's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ahmar46)](https://holopin.io/@ahmar46) -->
 
@@ -127,7 +127,19 @@ const myDetails = {
 
 ## 🌐 Socials
 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/17067744/lakshan-rukantha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/ahmar46) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/944559009900425226) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@CodeWithLakshan) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/ahmar46) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://facebook.com/ahmar46.dev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/lakshan_rukantha)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/electrifyingcodes)
+
+[![Threads](https://img.shields.io/badge/-threads-FE7A16?logo=threads&logoColor=white&style=for-the-badge)](https://www.threads.com/@electrifyingcodes)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/ahmar46)
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/944559009900425226)
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@CodeWithLakshan)
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/ahmar46)
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://facebook.com/ahmar46.dev)
 
 <hr/>
 
